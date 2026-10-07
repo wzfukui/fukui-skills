@@ -1,0 +1,4 @@
+interface:
+  display_name: "自动化测试效率优化"
+  short_description: "诊断已有测试成本，建立分层反馈、可靠隔离、完整验收和可维护工具入口"
+  default_prompt: "请使用 $test-workflow-optimize，先诊断本项目已有测试的成本，再在保留业务断言与完整验收覆盖的前提下优化测试架构、工具和维护文档。"
